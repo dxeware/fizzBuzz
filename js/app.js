@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-  var endRange = 15;
+  var endRange = 100;
 
   function fizzBuzz(num) {
     var output = '';
